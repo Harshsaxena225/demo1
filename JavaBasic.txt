@@ -1,0 +1,11 @@
+
+public class WecomeToJava
+{
+
+public static void main(String[] args) 
+   {
+      System.out.println("Welcome to java");
+      System.out.println("Code has been updated in remote env, now fetching to local env");
+   }
+
+}
